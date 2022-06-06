@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.anacerceve {
+border: 8px solid #EB5800;
+border-radius: 80px;
+height: 800px;
+width:800px;
+margin-left: auto;
+margin-right: auto;
+margin-top:150px;    
+display: flex;
+}
+
+.anacerceve_ust{
+font-family:'JetBrains Mono',monospace;
+
+font-size: large;
+font-weight: bolder;
+color:white;
+border:8px solid #EB5800;
+background-color: #EB5800;
+height: 100px;
+width: 800px;
+border-top-left-radius:60px ;
+border-top-right-radius:60px ;
+font-style:normal;
+text-align: center;
+}
+
+#BizeUlasin{
+
+display:flex;   
+ position:relative;
+font-size:210%;
+color:white;
+text-align: center;
+font-weight: bolder;
+margin: auto;
+}
+
+#buton{
+    font-family:'JetBrains Mono',monospace;
+    margin-top: 750px;
+    margin-left:300px ;  
+    color:White;
+    background-color: #EB5800;
+    width:171px;
+    height: 44px;
+    border-radius: 60px;
+    font-size: large;
+    font-weight: bold;
+    position:absolute;
+    text-align: center;
+    border: solid #EB5800;
+}
+#buton:hover{
+    color:#EB5800;
+    background-color: white;
+}
+
+.butonGonder{
+    font-family:'JetBrains Mono',monospace;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+}
+
+.ad_soyad_mail{
+    font-family:'JetBrains Mono',monospace;
+    position: absolute;
+    margin-top:120px ;
+    margin-bottom:50px ;
+    margin-left: 280px;
+    margin-right: 50px;
+}
+
+.mesajAlanıClass{
+display:flex;
+}
+#mesajAlanıId{
+border: 4px solid #EB5800;
+font-family:'JetBrains Mono',monospace;
+position: relative;
+margin: auto;
+height: 300px;
+width: 500px;
+top: 150px;
+left: -150px;
+}
+
+.ust{
+    display: flex;
+    
+    margin-top: 30px;
+}
+.alt{
+    display: flex;
+    margin-bottom:150px;
+    
+}
+.takim_ali{
+    margin-right: auto;
+    margin-left: 100px;
+
+}
+
+.takim_ibo{
+    margin-left: auto;
+    margin-right: 25px;
+}
+
+.takim_ahmet{
+    margin: auto;
+
+}
+
+.takim_ferhat{
+    margin: auto;
+
+}
+
+.takim_kutusu{ 
+font-family:'JetBrains Mono',monospace;  
+margin-left: auto;
+    
+margin-right: auto;
+border: 8px solid #EB5800;
+width: 800px;
+height: 800px;
+border-radius: 80px;
+}

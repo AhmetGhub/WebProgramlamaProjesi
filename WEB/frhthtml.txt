@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+ <head>
+     <title>
+         Takım ve İletişim
+     </title>
+     <meta charset="UTF-8">
+     <link rel="stylesheet" href="css/takimVeIletisim.css">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="anacerceve">
+     
+        <div class="anacerceve_ust">
+        <p id="BizeUlasin">BİZE ULAŞIN</p>
+        </div>
+
+        <div class="ad_soyad_mail">
+            Adınız<hr><input type="text" ><br><br><br>
+            Soyadınız<hr><input type="text"><br><br><br>
+            Mailiniz<hr><input type="email">
+        </div>
+
+        <div class="mesajAlanıClass">
+        <textarea id="mesajAlanıId"></textarea>
+        </div>
+    
+     <button id="buton">Gönder</button>
+    </div>
+    <br><br><br>
+
+    <div class="takim_kutusu">
+        <div class="ust">
+            <div class="takim_ali">
+            <img src="images/ali.png" max-width="300px" height="300px">
+            <h1>Ali AKGUL</h1>        
+            </div>
+    
+            <div class="takim_ahmet">
+                <img src="images/ahmet.png" max-width="300px" height="300px" >
+                <h1>Ahmet BILYELI</h1>
+            </div>
+    
+        </div>
+    
+    
+            <div class="alt">
+            <div class="takim_ferhat">
+            <img src="images/ferhat.png" max-width="300px" height="300px">
+            <h1>Ferhat DIKMEN</h1>
+            </div>
+    
+            <div class="takim_ibo">
+                <img src="images/ibrahim.png" max-width="300px" height="300px">
+                <h1>İbrahim AYDEMIR</h1>
+            </div>
+        
+       
+     </div>
+    </div>
+
+</body>
+
+
+
+</html>
