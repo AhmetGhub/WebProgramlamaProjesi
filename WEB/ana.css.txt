@@ -63,11 +63,6 @@ body{
     }
       
 }
-
-.menu_icon i:hover{
-    width: 200px;
-    height: 800px;
-}
 .footer{
     background: linear-gradient(rgba(235, 88, 0),rgba(241,5,81,255));
     width: 100%;
