@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>
+  </title>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie-edge">
+<link rel="stylesheet" href="style.css">
+<style>
+
+body{
+
+      background-image: url("nft_bt.jpg");
+      background-repeat: no repeat;
+      background-position: center center;
+      background-attachment: fixed;
+      background-size: cover;
+}
+
+h1{
+  color:white;
+   width: 40em;
+  text-align:center;
+  height: 40em;
+
+}
+
+.ornek{
+width: 900px;
+margin:auto;
+}
+.sola-kaydir{
+float:left;
+padding:0 10px 10px 0;
+font-size: 3em
+
+}
+
+
+
+  </style>
+
+
+
+
+
+</head>
+<body>
+  <h1>RoadMap</h1>
+    <div class="ornek">
+  <img src="new_1_1.png" class="sola-kaydir">
+<p><h3>RoadMap1</h3> Taka NFT'leri siteyi ziyaret edenler için ayrı bir futbol tutkusu katar.Futbol NFT'leri denilince akla TİKİ TAKA gelir</p>
+</p>
+<p><h3>RoadMap2</h3> Tiki Taka NFT'Lerde amacımız daha iyi görsel ve arka planı ön planda tutarak yıl içerisinde hem satış gerçekleştirmek aynı zamanda Tiki taka yazıldığı zaman google'a nft web sitesimizin görükmesi bizim için avantaj sağlar.
+</p>
+<p><h3>RoadMap3</h3>
+  Nft kısmında daha fazla futbolcu görselleri bulundurmaya her geçen gün dikkat ediyoruz.
+    </p>
+<p><h3>RoadMap4</h3>
+  Futbolcu NFT Görselleri çizimleri adına yenilik ve fikirlere açığız.
+</p>
+<p><h3>RoadMap5</h3>
+     NFT görsellerimiz belli bir miktara satıldığında Nft şirketleri ile birlikte Nft oyunları yapmak istiyoruz.
+</p>
+    </div>
+</body>
+</html>
